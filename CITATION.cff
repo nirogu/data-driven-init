@@ -5,5 +5,5 @@ authors:
   given-names: "Nicolas"
 title: "Data driven initialization for neural network models"
 date-released: 2024-05-15
-license: MIT
-url: "https://github.com/Nirogu/data-driven-init"
+license: ISC
+url: "https://github.com/nirogu/data-driven-init"
